@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\erasm\Promineo\BackEndFolderTree\BE-Promineo-Tech\Week-04-Collections\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2492648070.index
+3413270776.index
